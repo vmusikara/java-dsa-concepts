@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d98db09-38c4-461d-804b-d0c92a193f74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMinimumNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchInStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +38,15 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FindMinimumNumber.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.searchInRange.executor": "Run",
     "Application.searchInStrings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

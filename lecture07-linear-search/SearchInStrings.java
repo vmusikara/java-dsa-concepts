@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class searchInStrings {
+public class SearchInStrings {
     public static void main(String[] args) {
         String name = "mvbreddy";
         char target = 'v';
@@ -20,7 +20,7 @@ public class searchInStrings {
         }
 
         for (int i = 0; i < str.length(); i++) {
-            if (target == str.charAt(i)){
+            if (str.charAt(i) == target){
                 return true;
             }
         }

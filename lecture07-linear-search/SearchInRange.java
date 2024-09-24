@@ -1,4 +1,4 @@
-public class searchInRange {
+public class SearchInRange {
     public static void main(String[] args) {
 
         int[] arr = {22, 65, 46, 34, 76, 89, 55, -1};
