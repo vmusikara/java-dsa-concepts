@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d98db09-38c4-461d-804b-d0c92a193f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindMinimumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/EvenDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/MaximumWealth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/SearchIn2DArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/searchInStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searchInStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mUdGIHp621OfnY07h0BR1fK8zw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,8 +46,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EvenDigits.executor": "Run",
     "Application.FindMinimumNumber.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaximumWealth.executor": "Run",
+    "Application.SearchIn2DArray.executor": "Run",
     "Application.searchInRange.executor": "Run",
     "Application.searchInStrings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

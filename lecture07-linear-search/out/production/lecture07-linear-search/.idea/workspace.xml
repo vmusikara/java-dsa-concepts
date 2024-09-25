@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d98db09-38c4-461d-804b-d0c92a193f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/lecture07-linear-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lectures/lecture07-linear-search/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lectures/lecture07-linear-search/.idea/lecture07-linear-search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lectures/lecture07-linear-search/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lectures/lecture07-linear-search/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lectures/lecture07-linear-search/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/SearchIn2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mUdGIHp621OfnY07h0BR1fK8zw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,10 +36,17 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FindMinimumNumber.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SearchIn2DArray.executor": "Run",
+    "Application.searchInRange.executor": "Run",
+    "Application.searchInStrings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -52,6 +55,20 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lecture07-linear-search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit in java-dsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
