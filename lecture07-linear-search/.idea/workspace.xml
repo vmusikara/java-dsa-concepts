@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d98db09-38c4-461d-804b-d0c92a193f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/EvenDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/MaximumWealth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/SearchIn2DArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lecture07-linear-search/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +36,23 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EvenDigits.executor": "Run",
-    "Application.FindMinimumNumber.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaximumWealth.executor": "Run",
-    "Application.SearchIn2DArray.executor": "Run",
-    "Application.searchInRange.executor": "Run",
-    "Application.searchInStrings.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspaces/java-dsa/lecture07-linear-search",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMinimumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchInStrings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspaces/java-dsa/lecture07-linear-search&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
