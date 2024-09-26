@@ -1,5 +1,6 @@
 public class BinarySearch {
     public static void main(String[] args) {
+        // the array is ascending order sorted
         int[] arr = {-18, 12, -2, 0, 2, 3, 4, 12, 15, 17, 19, 22, 25, 47, 78, 89, 100, 111};
 
         int target = 99;
