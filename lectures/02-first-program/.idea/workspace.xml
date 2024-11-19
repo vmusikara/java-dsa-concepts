@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b469af52-f696-4722-ae18-19df6335f13e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/01-leap-year-or-not/leap-year-or-not.excalidraw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/01-leap-year-or-not/leap-year-or-not.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/02-add-two-numbers/add-two-numbers.excalidraw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/02-add-two-numbers/add-two-numbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/03-multiplication-table-of-a-number/multiplication-table-of-a-number.excalidraw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/03-multiplication-table-of-a-number/multiplication-table-of-a-number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/05-take-numbers-until-entered-x/take-numbers-until-entered-x.excalidraw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/01-flow-of-program/05-take-numbers-until-entered-x/take-numbers-until-entered-x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-first-program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ouH7Svg1Q8JgtecX3mYAW841oK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum" />
+      <module name="02-first-program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b469af52-f696-4722-ae18-19df6335f13e" name="Changes" comment="" />
+      <created>1731712375363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731712375363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
